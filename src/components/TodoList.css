@@ -1,0 +1,7 @@
+/* style={{ width: "100%", padding: "0", overflowY: "scroll" }} */
+ul {
+    width: 100%;
+    padding: 0;
+    overflow-y: scroll;
+    height: 347px;
+}

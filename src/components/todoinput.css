@@ -1,0 +1,24 @@
+input {
+    outline: none;
+    width: 75%;
+    padding: 15px;
+    margin-right: 5px;
+    display: inline-block;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition: all .3s;
+}
+
+button:hover {
+    background-color: rgb(126, 12, 12);
+}

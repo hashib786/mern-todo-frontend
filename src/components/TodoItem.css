@@ -1,0 +1,21 @@
+li {
+    border: 1px solid rgb(150, 167, 150);
+    padding: 5px 12px;
+    list-style: none;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 9px;
+}
+
+.item:nth-child(1) {
+    width: 65%;
+    font-size: 22px;
+}
+
+.item:nth-child(2),
+.item:nth-child(3) {
+    width: 15%;
+}
